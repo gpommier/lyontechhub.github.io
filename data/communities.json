@@ -247,6 +247,12 @@
         "tags": ["musique", "electronique", "meetup"]
     },
     {
+        "key": "ClubO365",
+        "name": "Club Office 365",
+        "shortDescription": "Ce groupe réunit toutes les personnes concernées par les solutions Microsoft Office 365 (décideurs, DSI, managers d'équipe, responsables des solutions collaboratives, personnes en charge du déploiement et de la formation & conduite du changement, responsables Communication et RH, responsables documentaires, chefs de projet digital, maîtrise d'ouvrage, etc.)",
+        "tags": [ "Microsoft", "Office 365", "Teams", "SharePoint", "Gouvernance", "Azure" ]
+    },
+    {
         "key": "LaboratoireOuvertLyonnais",
         "image": "LaboratoireOuvertLyonnais.svg",
         "name": "Laboratoire Ouvert Lyonnais",
